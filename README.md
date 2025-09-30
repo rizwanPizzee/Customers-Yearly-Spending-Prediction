@@ -6,7 +6,8 @@ This Flask web app predicts a customer's Yearly Amount Spent from four features.
 It provides a simple web form (index.html) for entering feature values and returns the model prediction.
 
 ---
-
+## Webiste
+ - Link : https://customers-yearly-spending-predictio.vercel.app
 ## View The Nootbook
 
 - Link 1: https://github.com/rizwanPizzee/Linear-Regression-E-commerce/blob/master/MLR.ipynb
